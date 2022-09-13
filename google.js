@@ -104,7 +104,7 @@ search.addEventListener("keyup", (e) => {
                <div class ="style">    
                <li><img src="${show}" alt=""></li>
                <li>
-               <a href="${res}"><h3>${filterArr}</h3></a>
+              <a href="https://en.wikipedia.org/wiki/${filterArr}"><h3>${filterArr}</h3></a>  
                    <p>${description}</p>
                </li>
               
